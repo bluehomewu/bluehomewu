@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [android_device_X00QD](https://github.com/bluehomewu/android_device_asus_X00QD)
 
-- 🌱 I’m currently learning **JAVA**
-
 - 🔭 I’m currently working on [android_device_Z01R](https://github.com/bluehomewu/device_asus_Z01R)
 
 - 🔭 I’m currently working on [VPNHostpot](https://github.com/bluehomewu/VPNHotspot)
+
+- 🌱 I’m currently learning **JAVA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bluehomewu/](https://github.com/bluehomewu/)
 
