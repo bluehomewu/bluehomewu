@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluehomewu" alt="bluehomewu" /> </p>
 
-- 🔭 I’m currently working on [android_device_X00QD](https://github.com/bluehomewu/android_device_asus_X00QD)
+- 🔭 I’m currently working on [android_device_X00QD](https://github.com/bluehomewu/android_device_asus_X00QD/tree/havoc-ten)
 
 - 🔭 I’m currently working on [android_device_Z01R](https://github.com/bluehomewu/device_asus_Z01R)
 
