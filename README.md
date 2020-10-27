@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Havoc-OS](https://github.com/Havoc-OS)
 
-- 🌱 I’m currently learning **JAVA** **Kotlin**
+- 🌱 I’m currently learning **JAVA** & **Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bluehomewu/](https://github.com/bluehomewu/)
 
