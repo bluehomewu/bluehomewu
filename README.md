@@ -13,7 +13,9 @@
 
 - 🌱 I’m currently learning **JAVA** & **Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bluehomewu/](https://github.com/bluehomewu/)
+- 👨‍💻 All of my projects are available at [bluehomewu](https://github.com/bluehomewu)
+
+- 📚 I'm Studying at Taipei Municipal Huajiang Senior High School.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
