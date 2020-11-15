@@ -7,6 +7,10 @@
 
 - 🔭 I’m currently working on [android_device_Z01R](https://github.com/bluehomewu/device_asus_Z01R)
 
+- 🔭 I’m currently working on [device_oneplus_hotdogb](https://github.com/bluehomewu/device_oneplus_hotdogb)
+
+- 🔭 I’m currently working on [device_oneplus_sm8150-common](https://github.com/bluehomewu/device_oneplus_sm8150-common)
+
 - 🔭 I’m currently working on [VPNHostpot](https://github.com/bluehomewu/VPNHotspot)
 
 - 🔭 I’m currently working on [Havoc-OS](https://github.com/Havoc-OS)
@@ -15,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [bluehomewu](https://github.com/bluehomewu)
 
-- 📚 I'm Studying at Taipei Municipal Huajiang Senior High School.
+- 📚 I'm Studying at **Taipei Municipal Huajiang Senior High School.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
