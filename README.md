@@ -3,13 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluehomewu" alt="bluehomewu" /> </p>
 
-- 🔭 I’m currently working on [android_device_X00QD](https://github.com/bluehomewu/android_device_asus_X00QD/tree/havoc-ten)
+- 🔭 I’m currently working on [android_device_X00QD](https://github.com/bluehomewu/android_device_asus_X00QD/)
 
 - 🔭 I’m currently working on [android_device_Z01R](https://github.com/bluehomewu/device_asus_Z01R)
 
 - 🔭 I’m currently working on [device_oneplus_hotdogb](https://github.com/bluehomewu/device_oneplus_hotdogb)
 
 - 🔭 I’m currently working on [device_oneplus_sm8150-common](https://github.com/bluehomewu/device_oneplus_sm8150-common)
+
+- 🔭 I’m currently working on [android_device_asus_X00I](https://github.com/bluehomewu/android_device_asus_X00I)
+
+- 🔭 I’m currently working on [android_device_asus_X00H](https://github.com/bluehomewu/android_device_asus_X00H)
+
+- 🔭 I’m currently working on [android_device_asus_msm8937-common](https://github.com/bluehomewu/android_device_asus_msm8937-common)
 
 - 🔭 I’m currently working on [VPNHostpot](https://github.com/bluehomewu/VPNHotspot)
 
