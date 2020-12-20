@@ -25,7 +25,9 @@
 
 - 👨‍💻 All of my projects are available at [bluehomewu](https://github.com/bluehomewu)
 
-- 📚 I'm Studying at **Taipei Municipal Huajiang Senior High School.**
+- 📚 I'm Studying at **Taipei Municipal Huajiang Senior High School,Taiwan**
+
+- 📚 I'm Studying at **Chung Yuan Christian University,Taiwan.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
