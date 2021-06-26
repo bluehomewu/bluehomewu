@@ -7,25 +7,35 @@
 
 - 🔭 I’m currently working on [twrp_device_asus_X00Q](https://github.com/ASUS-ZenFone-5-Devlopment/twrp_device_asus_X00Q)
 
-- 🔭 I’m currently working on [android_device_Z01R](https://github.com/bluehomewu/device_asus_Z01R)
+- 🔭 I’m currently working on [android_device_asus_Z01R](https://github.com/bluehomewu/android_device_asus_Z01R-2)
 
-- 🔭 I’m currently working on [android_device_asus_X00I](https://github.com/bluehomewu/android_device_asus_X00I)
+- 🔭 I’m currently working on [android_device_nokia_nb1](https://github.com/Nokia-8-Development/android_device_nokia_nb1)
 
-- 🔭 I’m currently working on [android_device_asus_X00H](https://github.com/bluehomewu/android_device_asus_X00H)
-
-- 🔭 I’m currently working on [android_device_asus_msm8937-common](https://github.com/bluehomewu/android_device_asus_msm8937-common)
+- 🔭 I’m currently working on [android_device_nokia_msm8998-common](https://github.com/Nokia-8-Development/android_device_nokia_msm8998-common)
 
 - 🔭 I’m currently working on [VPNHostpot](https://github.com/bluehomewu/VPNHotspot)
+
+- 🔭 I’m currently working on [crDroid](https://github.com/crdroidandroid)
 
 - 🔭 I’m currently working on [Havoc-OS](https://github.com/Havoc-OS)
 
 - 🌱 I’m currently learning **JAVA** & **Kotlin**
 
-- 👨‍💻 All of my projects are available at [bluehomewu](https://github.com/bluehomewu)
+- 👨‍💻 All of my projects are available at
 
-- 📚 I'm Studying at **Taipei Municipal Huajiang Senior High School,Taiwan**
+  [bluehomewu](https://github.com/bluehomewu)
 
-- 📚 I'm Studying at **Chung Yuan Christian University,Taiwan.**
+  [ASUS-ZenFone-5-Development](https://github.com/ASUS-ZenFone-5-Development)
+
+  [Edward-Recovery-Lab](https://github.com/Edward-Recovery-Lab)
+
+  [Edward-dumps](https://github.com/Edward-dumps)
+
+  [Nokia-8-Development](https://github.com/Nokia-8-Development)
+
+- 📚 I used to study at **Taipei Municipal Huajiang Senior High School,Taiwan**
+
+- 📚 I'm studying at **Chung Yuan Christian University,Taiwan.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
