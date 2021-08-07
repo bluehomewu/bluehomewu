@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluehomewu" alt="bluehomewu" /> </p>
 
-- 🔭 I’m currently working on [android_device_X00QD](https://github.com/ASUS-ZenFone-5-Devlopment/android_device_asus_X00QD_Edward)
+- 🔭 I’m currently working on [android_device_nokia_PNX_sprout](https://github.com/bluehomewu/android_device_nokia_PNX_sprout)
 
-- 🔭 I’m currently working on [twrp_device_asus_X00Q](https://github.com/ASUS-ZenFone-5-Devlopment/twrp_device_asus_X00Q)
+- 🔭 I’m currently working on [android_device_nokia_sdm710-common](https://github.com/bluehomewu/android_device_nokia_sdm710-common)
+
+- 🔭 I’m currently working on [kernel_nokia_8.1](https://github.com/bluehomewu/kernel_nokia_8.1)
 
 - 🔭 I’m currently working on [android_device_asus_Z01R](https://github.com/bluehomewu/android_device_asus_Z01R-2)
 
@@ -33,9 +35,9 @@
 
   [Nokia-8-Development](https://github.com/Nokia-8-Development)
 
-- 📚 I used to study at **Taipei Municipal Huajiang Senior High School,Taiwan**
+- 📚 I used to study at **Taipei Municipal Huajiang Senior High School,Taiwan. (華江高中)**
 
-- 📚 I'm studying at **Chung Yuan Christian University,Taiwan.**
+- 📚 I'm studying at **Chung Yuan Christian University,Taiwan. (中原大學)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
