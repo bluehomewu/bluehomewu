@@ -27,8 +27,6 @@
 
   [bluehomewu](https://github.com/bluehomewu)
 
-  [ASUS-ZenFone-5-Development](https://github.com/ASUS-ZenFone-5-Development)
-
   [Edward-Recovery-Lab](https://github.com/Edward-Recovery-Lab)
 
   [Edward-dumps](https://github.com/Edward-dumps)
