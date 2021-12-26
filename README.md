@@ -27,7 +27,7 @@
 
   [Edward-Recovery-Lab](https://github.com/Edward-Recovery-Lab)
   
-  [Edward-Project](https://github.com/Edward-Project)
+  [Edward's Projects](https://github.com/Edward-Projects)
 
   [Edward-dumps](https://github.com/Edward-dumps)
 
