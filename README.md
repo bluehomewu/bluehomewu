@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluehomewu" alt="bluehomewu" /> </p>
 
-- 🖥️ I’m currently working on [android_device_nokia_PNX_sprout](https://github.com/bluehomewu/android_device_nokia_PNX_sprout)
+- 🖥️ I’m currently working on [S_device_asus_Z01R](https://github.com/bluehomewu/S_device_asus_Z01R)
 
-- 🖥️ I’m currently working on [android_device_nokia_sdm710-common](https://github.com/bluehomewu/android_device_nokia_sdm710-common)
+- 🖥️ I’m currently working on [LeafNote-Community](https://github.com/bluehomewu/LeafNote-Community)
 
-- 🖥️ I’m currently working on [kernel_nokia_8.1](https://github.com/bluehomewu/kernel_nokia_8.1)
+- 🖥️ I’m currently working on [android_kernel_lenovo_J607Z](https://github.com/Edward-Projects/android_kernel_lenovo_J607Z)
 
 - 🖥️ I’m currently working on [android_device_asus_Z01R](https://github.com/bluehomewu/android_device_asus_Z01R-2)
 
-- 🖥️ I’m currently working on [android_device_nokia_nb1](https://github.com/Nokia-8-Development/android_device_nokia_nb1)
-
-- 🖥️ I’m currently working on [android_device_nokia_msm8998-common](https://github.com/Nokia-8-Development/android_device_nokia_msm8998-common)
+- 🖥️ I’m currently working on [device_nokia_NB1](https://github.com/Nokia-8-Development/device_nokia_NB1)
 
 - 🖥️ I’m currently working on [VPNHostpot](https://github.com/bluehomewu/VPNHotspot)
 
@@ -28,6 +26,8 @@
   [bluehomewu](https://github.com/bluehomewu)
 
   [Edward-Recovery-Lab](https://github.com/Edward-Recovery-Lab)
+  
+  [Edward-Project](https://github.com/Edward-Project)
 
   [Edward-dumps](https://github.com/Edward-dumps)
 
