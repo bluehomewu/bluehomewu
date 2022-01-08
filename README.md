@@ -1,4 +1,4 @@
-## 👋 Hi there <img style="width: 60%;" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bluehomewu&theme=default" />
+## 👋 Hi there <img style="width: 60%;" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bluehomewu&theme=nord_bright" />
 
  - You can call me EdwardWu
  - I used to study at [**Taipei Municipal Huajiang Senior High School,Taiwan. (華江高中)**](http://www.hcsh.tp.edu.tw/)
@@ -24,7 +24,7 @@
 [![ASUS ZenFone 7](https://img.shields.io/badge/ASUS%20ZenFone%207-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/ZenFone-7/)<br>
 [![Nokia 8](https://img.shields.io/badge/Nokia%208-a2aaad?style=flat-square&logo=Nokia&logoColor=ffffff)](https://www.nokia.com/phones/zh_tw/nokia-8-0)
 [![Nokia 8.1](https://img.shields.io/badge/Nokia%208%2e1-a2aaad?style=flat-square&logo=Nokia&logoColor=ffffff)](https://www.nokia.com/phones/zh_tw/nokia-8-1)<br>
-
+[![Google Pixel buds A-Series](https://img.shields.io/badge/Google%20Pixel%20buds%20A%20Series-4285F4?style=flat-square&logo=Google&logoColor=ffffff)](https://store.google.com/tw/product/pixel_buds_a_series_specs?utm_source=google&utm_medium=cpc&utm_campaign=japac-TW-zh-dr-bkws-all-all-buy-b-dr-1008675&utm_content=text-ad-none-none-DEV_c-CRE_540318594925-ADGP_Hybrid+%7C+BKWS+-+EXA+~+Pixel+Buds+~+%5BM:1%5D+~+TW+~+zh+~+A+Series-KWID_43700066649024984-kwd-1295844324603-userloc_1012817&utm_term=KW_pixel+buds+a+series-ST_pixel+buds+a+series&gclid=Cj0KCQiAieWOBhCYARIsANcOw0z47epLyWamF_lD1jVWisiHKwRH-zMgXOVqTilcL5s1HKVEoTbpbgcaAhudEALw_wcB&gclsrc=aw.ds&hl=zh-TW)<br>
 
 ## 📫 Get in touch
 [![Twitter](https://img.shields.io/twitter/follow/EdwardWu0231291?color=1ca0f1&label=%40EdwardWu0231291&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/EdwardWu0231291)
