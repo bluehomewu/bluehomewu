@@ -1,72 +1,36 @@
-<h1 align="center">Hi,I'm Edward Wu 👋</h1>
-<h3 align="center">A passionate Android custom ROM developer from Taiwan</h3>
+## 👋 Hi there <img style="width: 60%;" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bluehomewu&theme=default" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bluehomewu" alt="bluehomewu" /> </p>
+ - You can call me EdwardWu
+ - I used to study at [**Taipei Municipal Huajiang Senior High School,Taiwan. (華江高中)**](http://www.hcsh.tp.edu.tw/)
+ - I'm studying at [**Chung Yuan Christian University,Taiwan. (中原大學)**](https://www1.cycu.edu.tw/)
 
-- 🖥️ I’m currently working on [S_device_asus_Z01R](https://github.com/bluehomewu/S_device_asus_Z01R)
+## 🤔 What I'm doing
+ - Learning C / C++ / Kotlin.
+ - Maintaining Havoc-OS for ASUS ZenFone 5Z / Nokia 8.
+ - Maintaining crDroid for ASUS ZenFone 5Z.
+ - Maintaining Arrow-OS for ASUS ZenFone 5Z.
 
-- 🖥️ I’m currently working on [LeafNote-Community](https://github.com/bluehomewu/LeafNote-Community)
+## 💻 Working environment
+[![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)<br>
+[![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)<br>
+[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)<br>
+[![Ubuntu 21.10](https://img.shields.io/badge/Ubuntu%2021%2e10-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.10/)<br>
 
-- 🖥️ I’m currently working on [android_kernel_lenovo_J607Z](https://github.com/Edward-Projects/android_kernel_lenovo_J607Z)
+## 📱 Devices in use
+[![Lenovo Xiaoxin Pad Plus](https://img.shields.io/badge/Lenovo%20Xiaoxin%20Pad%20Plus%20WiFi-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://item.lenovo.com.cn/product/1014618.html)
+[![Lenovo ideapad 5-14ARE05](https://img.shields.io/badge/Lenovo%20ideapad%205%2014ARE05-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://www.lenovo.com/tw/zh/laptops/ideapad/s-series/IdeaPad-5-14ARE05/p/88IPS501392)<br>
+[![OnePlus 9R](https://img.shields.io/badge/OnePlus%209R-e60012?style=flat-square&logo=OnePlus&logoColor=ffffff)](https://www.oneplus.com/cn/9r/specs)<br>
+[![ASUS ZenFone 5Z](https://img.shields.io/badge/ASUS%20ZenFone%205Z-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/ZenFone-5Z-ZS620KL/)
+[![ASUS ZenFone 7](https://img.shields.io/badge/ASUS%20ZenFone%207-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/ZenFone-7/)<br>
+[![Nokia 8](https://img.shields.io/badge/Nokia%208-a2aaad?style=flat-square&logo=Nokia&logoColor=ffffff)](https://www.nokia.com/phones/zh_tw/nokia-8-0)
+[![Nokia 8.1](https://img.shields.io/badge/Nokia%208%2e1-a2aaad?style=flat-square&logo=Nokia&logoColor=ffffff)](https://www.nokia.com/phones/zh_tw/nokia-8-1)<br>
 
-- 🖥️ I’m currently working on [android_device_asus_Z01R](https://github.com/bluehomewu/android_device_asus_Z01R-2)
 
-- 🖥️ I’m currently working on [device_nokia_NB1](https://github.com/Nokia-8-Development/device_nokia_NB1)
+## 📫 Get in touch
+[![Twitter](https://img.shields.io/twitter/follow/EdwardWu0231291?color=1ca0f1&label=%40EdwardWu0231291&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/EdwardWu0231291)
+[![Telegram](https://img.shields.io/badge/%40edwardwu0223-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/edwardwu0223)
+[![Email](https://img.shields.io/badge/bluehome.wu%40gmail%2ecom-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:bluehome.wu@gmail.com)
 
-- 🖥️ I’m currently working on [VPNHostpot](https://github.com/bluehomewu/VPNHotspot)
+## 💰 Support my work
 
-- 🖥️ I’m currently working on [crDroid](https://github.com/crdroidandroid)
-
-- 🖥️ I’m currently working on [Havoc-OS](https://github.com/Havoc-OS)
-
-- 🌱 I’m currently learning **JAVA** & **Kotlin**
-
-- 👨‍💻 All of my projects are available at
-
-  [bluehomewu](https://github.com/bluehomewu)
-
-  [Edward-Recovery-Lab](https://github.com/Edward-Recovery-Lab)
-  
-  [Edward's Projects](https://github.com/Edward-Projects)
-
-  [Edward-dumps](https://github.com/Edward-dumps)
-
-  [Nokia-8-Development](https://github.com/Nokia-8-Development)
-
-- 📚 I used to study at **Taipei Municipal Huajiang Senior High School,Taiwan. (華江高中)**
-
-- 📚 I'm studying at **Chung Yuan Christian University,Taiwan. (中原大學)**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<p align="left"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
-
-<p align="left"><code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluehomewu&layout=compact" alt="bluehomewu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bluehomewu&show_icons=true" alt="bluehomewu" /></p>
-
-<p align="center">
-
-</p>
-
-## 🙏 Support
-
-<p align="left">
-<a href="https://www.paypal.com/paypalme/edwardwu0223"><img src="https://ionicabizau.github.io/badges/paypal.svg"/></a>
-<a href="https://github.com/bluehomewu"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
-<a href="https://www.instagram.com/_920223"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
-<a href="mailto:bluehome.wu@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></p></a>
-
-<hr>
-<p align="center">
-Developed with ❤️ in Taiwan
-</p>
-
-##### [Create by gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+ - [PayPal](http://paypal.me/edwardwu0223)
