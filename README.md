@@ -18,7 +18,7 @@
 
 ## 📱 Devices in use
 [![Xiaomi Pad 5](https://img.shields.io/badge/Xiaomi%20Pad%205%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/tw/xiaomi-pad-5/)
-[![Redmi K30 5G](https://img.shields.io/badge/Redmi%20K30%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik30-5g)
+[![Redmi K30 5G](https://img.shields.io/badge/Redmi%20K30%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik30-5g)<br>
 [![Lenovo ideapad 5-14ARE05](https://img.shields.io/badge/Lenovo%20ideapad%205%2014ARE05-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://www.lenovo.com/tw/zh/laptops/ideapad/s-series/IdeaPad-5-14ARE05/p/88IPS501392)<br>
 [![OnePlus 9R](https://img.shields.io/badge/OnePlus%209R-e60012?style=flat-square&logo=OnePlus&logoColor=ffffff)](https://www.oneplus.com/cn/9r/specs)<br>
 [![ASUS ZenFone 5Z](https://img.shields.io/badge/ASUS%20ZenFone%205Z-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/ZenFone-5Z-ZS620KL/)
