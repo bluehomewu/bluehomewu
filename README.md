@@ -1,4 +1,5 @@
 ## 👋 Hi there <img style="width: 60%;" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bluehomewu&theme=nord_bright" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bluehomewu" alt="bluehomewu" /> </p>
 
  - You can call me EdwardWu
  - I used to study at [**Taipei Municipal Huajiang Senior High School,Taiwan. (華江高中)**](http://www.hcsh.tp.edu.tw/)
