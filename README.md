@@ -6,7 +6,7 @@
  - I'm studying at [**Chung Yuan Christian University,Taiwan. (中原大學)**](https://www1.cycu.edu.tw/)
 
 ## 🤔 What I'm doing
- - Learning C / C++ / Kotlin.
+ - Learning C / C++ / Java / Kotlin.
  - Maintaining Havoc-OS / crDroid / Arrow-OS for ASUS ZenFone 5Z.
  - Maintaining Lineage-OS for ASUS ZenFone 7.
 
