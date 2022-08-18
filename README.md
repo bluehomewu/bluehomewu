@@ -8,6 +8,7 @@
 ## 🤔 What I'm doing
  - Learning C / C++ / Java / Kotlin.
  - Maintaining Havoc-OS / crDroid / Arrow-OS for ASUS ZenFone 5Z.
+ - Maintaining Project Kaleidoscope for Redmi K40 / POCO F3 / Xiaomi 11x
 
 ## 💻 Working environment
 [![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)
