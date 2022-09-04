@@ -7,12 +7,13 @@
 
 ## 🤔 What I'm doing
  - Learning C / C++ / Java / Kotlin.
- - Maintaining Havoc-OS / crDroid / Arrow-OS for ASUS ZenFone 5Z.
- - Maintaining Project Kaleidoscope for Redmi K40 / POCO F3 / Xiaomi 11x
+ - Maintaining `Havoc-OS` / `crDroid` / `Arrow-OS` for `ASUS ZenFone 5Z (Z01R)`.
+ - Maintaining `Project Kaleidoscope` for `Redmi K40 / POCO F3 / Xiaomi 11x (alioth)`.
 
 ## 💻 Working environment
 [![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
+[![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
 [![Ubuntu 21.10](https://img.shields.io/badge/Ubuntu%2021%2e10-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.10/)<br>
 
