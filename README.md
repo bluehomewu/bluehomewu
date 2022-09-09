@@ -9,6 +9,7 @@
  - Learning C / C++ / Java / Kotlin.
  - Maintaining `Havoc-OS` / `crDroid` / `Arrow-OS` for `ASUS ZenFone 5Z (Z01R)`.
  - Maintaining `Project Kaleidoscope` for `Redmi K40 / POCO F3 / Xiaomi 11x (alioth)`.
+ - Maintaining `Project Kaleidoscope` for `ASUS ZenFone 8 /ASUS_I006D (sake)`.
 
 ## 💻 Working environment
 [![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)
@@ -25,6 +26,7 @@
 [![OnePlus 9R](https://img.shields.io/badge/OnePlus%209R-e60012?style=flat-square&logo=OnePlus&logoColor=ffffff)](https://www.oneplus.com/cn/9r/specs)<br>
 [![ASUS ZenFone 4 Pro](https://img.shields.io/badge/ASUS%20ZenFone%204%20Pro-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/hk/Mobile/Phones/All-series/ZenFone-4-Pro-ZS551KL/)
 [![ASUS ZenFone 5Z](https://img.shields.io/badge/ASUS%20ZenFone%205Z-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/ZenFone-5Z-ZS620KL/)
+[![ASUS ZenFone 8](https://img.shields.io/badge/ASUS%20ZenFone%208-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/Zenfone-8/)
 [![ASUS ZenFone 9](https://img.shields.io/badge/ASUS%20ZenFone%209-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/Zenfone-9/)<br>
 [![Nokia 6](https://img.shields.io/badge/Nokia%206-a2aaad?style=flat-square&logo=Nokia&logoColor=ffffff)](https://www.nokia.com/phones/en_int/nokia-6-0)<br>
 ![QRD750](https://img.shields.io/badge/Qualcomm%20QRD750-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)
