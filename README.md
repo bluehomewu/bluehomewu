@@ -9,7 +9,7 @@
  - Learning C / C++ / Java / Kotlin.
  - Maintaining `Havoc-OS` / `crDroid` / `Arrow-OS` for `ASUS ZenFone 5Z (Z01R)`.
  - Maintaining `Project Kaleidoscope` for `Redmi K40 / POCO F3 / Xiaomi 11x (alioth)`.
- - Maintaining `Project Kaleidoscope` for `ASUS ZenFone 8 /ASUS_I006D (sake)`.
+ - Maintaining `Project Kaleidoscope` for `ASUS ZenFone 8 / ASUS_I006D (sake)`.
 
 ## 💻 Working environment
 [![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)
