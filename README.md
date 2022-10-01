@@ -42,4 +42,5 @@
 ## 💰 Support my work
 
  - [PayPal](http://paypal.me/edwardwu0223)
- - [AliPay](https://i.imgur.com/2DdSAhz.jpg)
+ - [AliPay(Chinese Users)](https://i.imgur.com/2DdSAhz.jpg)
+ - [Afdian(Chinese Users)](https://afdian.net/a/Edward0223)
