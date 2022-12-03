@@ -4,6 +4,7 @@
  - You can call me EdwardWu
  - I used to study at [**Taipei Municipal Huajiang Senior High School,Taiwan. (華江高中)**](http://www.hcsh.tp.edu.tw/)
  - I'm studying at [**Chung Yuan Christian University,Taiwan. (中原大學)**](https://www1.cycu.edu.tw/)
+ - I'm [**Chung Yuan Christian University,Taiwan. (中原大學) X Google Developer Student Clubs (GDSC)**](https://www.instagram.com/gdsc_cycu/) Co-Lead.
 
 ## 🤔 What I'm doing
  - Learning C / C++ / Java / Kotlin.
