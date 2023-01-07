@@ -9,6 +9,7 @@
 ## 🤔 What I'm doing
  - Learning C / C++ / Java / Kotlin.
  - Maintaining `Havoc-OS` / `crDroid` / `Arrow-OS` for `ASUS ZenFone 5Z (Z01R)`.
+ - Maintaining `Arrow-OS` for `Realme X3 series (x3)`.
  - Maintaining `Project Kaleidoscope` for `Redmi K40 / POCO F3 / Xiaomi 11x (alioth)`.
  - Maintaining `Project Kaleidoscope` for `ASUS ZenFone 8 / ASUS_I006D (sake)`.
  - Maintaining `Project Kaleidoscope` for `Nokia 8.1 (PNX_sprout)`.
