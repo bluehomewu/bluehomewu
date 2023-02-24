@@ -11,7 +11,6 @@
  - Maintaining `Havoc-OS` / `crDroid` / `Arrow-OS` for `ASUS ZenFone 5Z (Z01R)`.
  - Maintaining `Arrow-OS` for `Realme X3 series (x3)`.
  - Maintaining `Project Kaleidoscope` for `Redmi K40 / POCO F3 / Xiaomi 11x (alioth)`.
- - Maintaining `Project Kaleidoscope` for `ASUS ZenFone 8 / ASUS_I006D (sake)`.
  - Maintaining `Project Kaleidoscope` for `Nokia 8.1 (PNX_sprout)`.
  - In development `Nokia 8.3 (BGT_sprout)`.
 
@@ -28,9 +27,7 @@
 [![POCO F3](https://img.shields.io/badge/POCO%20F3-ffca14?style=flat-square&logo=POCO&logoColor=ffffff)](https://www.po.co/tw/product/poco-f3/specs)<br>
 [![Realme X3](https://img.shields.io/badge/Realme%20X3-ffca14?style=flat-square&logo=Realme&logoColor=ffffff)](https://www.realme.com/tw/realme-x3/specs)<br>
 [![Lenovo ThinkBook 14 G3 ACL](https://img.shields.io/badge/Lenovo%20ThinkBook%2014%20G3%20ACL-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://tk.lenovo.com.cn/product/1018106.html)<br>
-[![ASUS ZenFone 4 Pro](https://img.shields.io/badge/ASUS%20ZenFone%204%20Pro-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/hk/Mobile/Phones/All-series/ZenFone-4-Pro-ZS551KL/)
 [![ASUS ZenFone 5Z](https://img.shields.io/badge/ASUS%20ZenFone%205Z-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/ZenFone-5Z-ZS620KL/)
-[![ASUS ZenFone 8](https://img.shields.io/badge/ASUS%20ZenFone%208-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/Zenfone-8/)
 [![ASUS ZenFone 9](https://img.shields.io/badge/ASUS%20ZenFone%209-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/Zenfone-9/)<br>
 [![Nokia 6](https://img.shields.io/badge/Nokia%206-a2aaad?style=flat-square&logo=Nokia&logoColor=ffffff)](https://www.nokia.com/phones/en_int/nokia-6-0)
 [![Nokia 8.1](https://img.shields.io/badge/Nokia%208.1-a2aaad?style=flat-square&logo=Nokia&logoColor=ffffff)](https://www.nokia.com/phones/en_int/nokia-8-1)
