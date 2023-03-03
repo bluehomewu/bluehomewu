@@ -13,6 +13,7 @@
  - Maintaining `Project Kaleidoscope` for `Redmi K40 / POCO F3 / Xiaomi 11x (alioth)`.
  - Maintaining `Project Kaleidoscope` for `Nokia 8.1 (PNX_sprout)`.
  - In development `Nokia 8.3 (BGT_sprout)`.
+ - In development `BlackShark 4 aka SHARK PRS-A0 / PRS-H0 (penrose)`.
 
 ## 💻 Working environment
 [![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)
