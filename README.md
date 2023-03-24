@@ -10,7 +10,6 @@
  - Learning C / C++ / Java / Kotlin.
  - Maintaining `Havoc-OS` / `crDroid` / `Arrow-OS` for `ASUS ZenFone 5Z (Z01R)`.
  - Maintaining `Arrow-OS` for `Realme X3 series (x3)`.
- - Maintaining `Project Kaleidoscope` for `Redmi K40 / POCO F3 / Xiaomi 11x (alioth)`.
  - Maintaining `Project Kaleidoscope` for `Nokia 8.1 (PNX_sprout)`.
  - In development `Nokia 8.3 (BGT_sprout)`.
  - In development `BlackShark 4 aka SHARK PRS-A0 / PRS-H0 (penrose)`.
@@ -25,7 +24,6 @@
 ## 📱 Devices in use
 [![Xiaomi Pad 5](https://img.shields.io/badge/Xiaomi%20Pad%205%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/tw/xiaomi-pad-5/)
 [![Xiaomi Redmi AX6000](https://img.shields.io/badge/Xiaomi%20Redmi%20AX6000-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)]([https://www.mi.com/tw/miwifipro/specs/](https://www.mi.com/shop/buy/detail?product_id=15820&cfrom=search))<br>
-[![POCO F3](https://img.shields.io/badge/POCO%20F3-ffca14?style=flat-square&logo=POCO&logoColor=ffffff)](https://www.po.co/tw/product/poco-f3/specs)<br>
 [![Realme X3](https://img.shields.io/badge/Realme%20X3-ffca14?style=flat-square&logo=Realme&logoColor=ffffff)](https://www.realme.com/tw/realme-x3/specs)<br>
 [![Lenovo ThinkBook 14 G3 ACL](https://img.shields.io/badge/Lenovo%20ThinkBook%2014%20G3%20ACL-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://tk.lenovo.com.cn/product/1018106.html)<br>
 [![ASUS ZenFone 5Z](https://img.shields.io/badge/ASUS%20ZenFone%205Z-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/ZenFone-5Z-ZS620KL/)
