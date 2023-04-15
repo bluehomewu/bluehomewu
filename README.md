@@ -10,6 +10,7 @@
  - Learning C / C++ / Java / Kotlin.
  - Maintaining `Havoc-OS` / `crDroid` / `Arrow-OS` for `ASUS ZenFone 5Z (Z01R)`.
  - Maintaining `Arrow-OS` for `Realme X3 series (x3)`.
+ - Maintaining `Arrow-OS` for `Xiaomi Pad 5 Pro (elish)`.
  - Maintaining `Project Kaleidoscope` for `Nokia 8.1 (PNX_sprout)`.
  - In development `Nokia 8.3 (BGT_sprout)`.
  - In development `BlackShark 4 aka SHARK PRS-A0 / PRS-H0 (penrose)`.
@@ -19,10 +20,12 @@
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
 [![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
-[![Ubuntu 21.10](https://img.shields.io/badge/Ubuntu%2021%2e10-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.10/)<br>
+[![Ubuntu 21.10](https://img.shields.io/badge/Ubuntu%2021%2e10-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.10/)
+[![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/jammy/)<br>
 
 ## 📱 Devices in use
 [![Xiaomi Pad 5](https://img.shields.io/badge/Xiaomi%20Pad%205%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/tw/xiaomi-pad-5/)
+[![Xiaomi Pad 5 Pro](https://img.shields.io/badge/Xiaomi%20Pad%205%20Pro%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)]([https://www.mi.com/tw/xiaomi-pad-5/](https://www.mi.com/xiaomipad5pro))
 [![Xiaomi Redmi AX6000](https://img.shields.io/badge/Xiaomi%20Redmi%20AX6000-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)]([https://www.mi.com/tw/miwifipro/specs/](https://www.mi.com/shop/buy/detail?product_id=15820&cfrom=search))<br>
 [![Realme X3](https://img.shields.io/badge/Realme%20X3-ffca14?style=flat-square&logo=Realme&logoColor=ffffff)](https://www.realme.com/tw/realme-x3/specs)<br>
 [![Lenovo ThinkBook 14 G3 ACL](https://img.shields.io/badge/Lenovo%20ThinkBook%2014%20G3%20ACL-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://tk.lenovo.com.cn/product/1018106.html)<br>
