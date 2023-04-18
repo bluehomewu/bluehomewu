@@ -12,7 +12,6 @@
  - Maintaining `Arrow-OS` for `Realme X3 series (x3)`.
  - Maintaining `Arrow-OS` for `Xiaomi Pad 5 Pro (elish)`.
  - Maintaining `Project Kaleidoscope` for `Nokia 8.1 (PNX_sprout)`.
- - In development `Nokia 8.3 (BGT_sprout)`.
  - In development `BlackShark 4 aka SHARK PRS-A0 / PRS-H0 (penrose)`.
 
 ## 💻 Working environment
