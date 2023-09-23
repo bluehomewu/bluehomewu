@@ -9,6 +9,7 @@
 ## 🤔 What I'm doing
  - Learning C / C++ / Java / Kotlin.
  - Maintaining `Havoc-OS` / `crDroid` / `Arrow-OS` for `ASUS ZenFone 5Z (Z01R)`.
+ - Maintaining `Project-Mia` for `ASUS ZenFone 9 (davinci)`.
  - Maintaining `Arrow-OS` for `Xiaomi Pad 5 Pro (elish)`.
 
 ## 💻 Working environment
