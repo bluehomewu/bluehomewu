@@ -10,6 +10,7 @@
  - Learning C / C++ / Java / Kotlin.
  - Maintaining `Havoc-OS` / `crDroid` / `Arrow-OS` for `ASUS ZenFone 5Z (Z01R)`.
  - Maintaining `Project-Mia` for `ASUS ZenFone 9 (davinci)`.
+ - Maintaining `Arrow-OS` for `Xiaomi Mi 5x (tiffany)`.
  - Maintaining `Arrow-OS` for `Xiaomi Pad 5 Pro (elish)`.
 
 ## 💻 Working environment
@@ -21,6 +22,7 @@
 [![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/jammy/)<br>
 
 ## 📱 Devices in use
+[![Xiaomi Mi 5x](https://img.shields.io/badge/Xiaomi%20Mi%205x%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.gsmarena.com/xiaomi_mi_a1_(mi_5x)-8776.php)
 [![Xiaomi Pad 5](https://img.shields.io/badge/Xiaomi%20Pad%205%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/tw/xiaomi-pad-5/)
 [![Xiaomi Pad 5 Pro](https://img.shields.io/badge/Xiaomi%20Pad%205%20Pro%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)]([https://www.mi.com/tw/xiaomi-pad-5/](https://www.mi.com/xiaomipad5pro))
 [![Xiaomi Redmi AX6000](https://img.shields.io/badge/Xiaomi%20Redmi%20AX6000-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)]([https://www.mi.com/tw/miwifipro/specs/](https://www.mi.com/shop/buy/detail?product_id=15820&cfrom=search))<br>
