@@ -33,7 +33,7 @@
 [![Nokia 6](https://img.shields.io/badge/Nokia%206-a2aaad?style=flat-square&logo=Nokia&logoColor=ffffff)](https://www.nokia.com/phones/en_int/nokia-6-0)<br>
 ![QRD750](https://img.shields.io/badge/Qualcomm%20QRD750-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)
 ![QRD765](https://img.shields.io/badge/Qualcomm%20QRD765-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)
-![QRD8350](https://img.shields.io/badge/Qualcomm%20QRD78350-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)<br>
+![QRD8350](https://img.shields.io/badge/Qualcomm%20QRD8350-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)<br>
 [![Nothing Phone (2)](https://img.shields.io/badge/Nothing%20Phone%20(2)-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://tw.nothing.tech/pages/phone-2)
 [![Nothing ear (2)](https://img.shields.io/badge/Nothing%20ear%20(2)-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://tw.nothing.tech/products/ear-2)<br>
 [![Google Pixel buds A-Series](https://img.shields.io/badge/Google%20Pixel%20buds%20A%20Series-4285F4?style=flat-square&logo=Google&logoColor=ffffff)](https://store.google.com/tw/product/pixel_buds_a_series_specs?utm_source=google&utm_medium=cpc&utm_campaign=japac-TW-zh-dr-bkws-all-all-buy-b-dr-1008675&utm_content=text-ad-none-none-DEV_c-CRE_540318594925-ADGP_Hybrid+%7C+BKWS+-+EXA+~+Pixel+Buds+~+%5BM:1%5D+~+TW+~+zh+~+A+Series-KWID_43700066649024984-kwd-1295844324603-userloc_1012817&utm_term=KW_pixel+buds+a+series-ST_pixel+buds+a+series&gclid=Cj0KCQiAieWOBhCYARIsANcOw0z47epLyWamF_lD1jVWisiHKwRH-zMgXOVqTilcL5s1HKVEoTbpbgcaAhudEALw_wcB&gclsrc=aw.ds&hl=zh-TW)<br>
