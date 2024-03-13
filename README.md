@@ -26,7 +26,7 @@
 [![Xiaomi Pad 5](https://img.shields.io/badge/Xiaomi%20Pad%205%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/tw/xiaomi-pad-5/)
 [![Xiaomi Pad 5 Pro](https://img.shields.io/badge/Xiaomi%20Pad%205%20Pro%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)]([https://www.mi.com/tw/xiaomi-pad-5/](https://www.mi.com/xiaomipad5pro))
 [![Xiaomi Redmi AX6000](https://img.shields.io/badge/Xiaomi%20Redmi%20AX6000-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)]([https://www.mi.com/tw/miwifipro/specs/](https://www.mi.com/shop/buy/detail?product_id=15820&cfrom=search))<br>
-[![Lenovo ThinkBook 14 G3 ACL](https://img.shields.io/badge/Lenovo%20ThinkBook%2014%20G3%20ACL-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://tk.lenovo.com.cn/product/1018106.html)<br>
+[![Lenovo ThinkBook 14 G6 IRL](https://img.shields.io/badge/Lenovo%20ThinkBook%2014%20G6%20IRL-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://tk.lenovo.com.cn/product/1031931.html)<br>
 [![ASUS ZenFone 5Z](https://img.shields.io/badge/ASUS%20ZenFone%205Z-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/ZenFone-5Z-ZS620KL/)
 [![ASUS ZenFone 9](https://img.shields.io/badge/ASUS%20ZenFone%209-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/Zenfone-9/)
 [![ASUS ZenFone 10](https://img.shields.io/badge/ASUS%20ZenFone%2010-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/Zenfone-10/)<br>
