@@ -30,7 +30,7 @@
 [![ASUS ZenFone 5Z](https://img.shields.io/badge/ASUS%20ZenFone%205Z-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/ZenFone-5Z-ZS620KL/)
 [![ASUS ZenFone 9](https://img.shields.io/badge/ASUS%20ZenFone%209-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/Zenfone-9/)
 [![ASUS ZenFone 10](https://img.shields.io/badge/ASUS%20ZenFone%2010-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/Zenfone-10/)
-[![ASUS ZenFone 11 Ultra](https://img.shields.io/badge/ASUS%20ZenFone%2011-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/Zenfone-11-ultra/)<br>
+[![ASUS ZenFone 11 Ultra](https://img.shields.io/badge/ASUS%20ZenFone%2011%20Ultra-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/Zenfone-11-ultra/)<br>
 [![Nokia 6](https://img.shields.io/badge/Nokia%206-a2aaad?style=flat-square&logo=Nokia&logoColor=ffffff)](https://www.nokia.com/phones/en_us/nokia-6-0)
 [![Nokia 8.3](https://img.shields.io/badge/Nokia%208.3-a2aaad?style=flat-square&logo=Nokia&logoColor=ffffff)](https://www.hmd.com/en_us/nokia-8-3-5g)<br>
 ![QRD750](https://img.shields.io/badge/Qualcomm%20QRD750-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)
