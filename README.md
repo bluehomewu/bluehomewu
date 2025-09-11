@@ -34,12 +34,12 @@
 [![ASUS ZenFone 11 Ultra](https://img.shields.io/badge/ASUS%20ZenFone%2011%20Ultra-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/Zenfone-11-ultra/)
 [![ASUS ZenFone 12 Ultra](https://img.shields.io/badge/ASUS%20ZenFone%2012%20Ultra-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/Zenfone-12-ultra/)<br>
 [![Nokia G60 5G](https://img.shields.io/badge/Nokia%20G60%205G-a2aaad?style=flat-square&logo=Nokia&logoColor=ffffff)](https://www.hmd.com/en_int/nokia-g-60?sku=101Q7505H018)<br>
-[![QRD750](https://img.shields.io/badge/Qualcomm%20QRD750-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)]()
-[![QRD765](https://img.shields.io/badge/Qualcomm%20QRD765-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)]()
-[![QRD4350](https://img.shields.io/badge/Qualcomm%20QRD4350-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)]()
-[![QRD8350](https://img.shields.io/badge/Qualcomm%20QRD8350-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)]()
-[![QRD8475](https://img.shields.io/badge/Qualcomm%20QRD8475-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)]()
-[![QRD8550](https://img.shields.io/badge/Qualcomm%20QRD8550-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)]()<br>
+[![QRD750](https://img.shields.io/badge/Qualcomm%20QRD750-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)](https://github.com/QRD-Development)
+[![QRD765](https://img.shields.io/badge/Qualcomm%20QRD765-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)](https://github.com/QRD-Development)
+[![QRD4350](https://img.shields.io/badge/Qualcomm%20QRD4350-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)](https://github.com/QRD-Development)
+[![QRD8350](https://img.shields.io/badge/Qualcomm%20QRD8350-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)](https://github.com/QRD-Development)
+[![QRD8475](https://img.shields.io/badge/Qualcomm%20QRD8475-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)](https://github.com/QRD-Development)
+[![QRD8550](https://img.shields.io/badge/Qualcomm%20QRD8550-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)](https://github.com/QRD-Development)<br>
 [![Nothing Phone (1)](https://img.shields.io/badge/Nothing%20Phone%20(1)-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://tw.nothing.tech/products/phone-1)
 [![Nothing Phone (2)](https://img.shields.io/badge/Nothing%20Phone%20(2)-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://tw.nothing.tech/products/phone-2)
 [![Nothing Phone (2a)](https://img.shields.io/badge/Nothing%20Phone%20(2a)-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://tw.nothing.tech/pages/phone-2a)
