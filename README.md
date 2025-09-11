@@ -1,4 +1,4 @@
-## 👋 Hi there <img style="width: 60%;" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bluehomewu&theme=nord_bright" />
+## 👋 Hi there <img style="width: 60%;" align="right" alt="GitHub Profile Details Card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bluehomewu&theme=nord_bright" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluehomewu" alt="bluehomewu" /> </p>
 
  - You can call me EdwardWu
