@@ -9,9 +9,7 @@ Currently maintaining **DerpFest** for **Nothing Phone (2a) / (2a+)**,
 and contributing to the Android open-source ecosystem.
 
 <img width="55%" align="right" alt="GitHub Profile Details Card"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bluehomewu&theme=github#gh-light-mode-only" />
-<img width="55%" align="right" alt="GitHub Profile Details Card"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bluehomewu&theme=nord_bright#gh-dark-mode-only" />
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bluehomewu&theme=nord_bright" />
 
 ## 🎤 Conference Talks
 
@@ -29,21 +27,24 @@ and contributing to the Android open-source ecosystem.
 | Device | Contribution | Status |
 |--------|-------------|--------|
 | Nothing Phone (2a) / (2a+) | DerpFest ROM Maintainer | ✅ Active |
-| ASUS ZenFone 5Z | Havoc-OS / crDroid / Arrow-OS | 🔴 Legacy |
+| ASUS ZenFone 5/5Z | Havoc-OS / crDroid / Arrow-OS | 🔴 Legacy |
+| ASUS ZenFone 8 | Project Kaleidoscope ROM Maintainer | 🔴 Legacy |
+| ASUS ZenFone 9 | Project-Mia ROM Maintainer | 🔴 Legacy |
 | Nokia G60 5G | TWRP | 🔴 Legacy |
+| Redmi K40 / POCO F3 / Xiaomi 11x | Project Kaleidoscope ROM Maintainer | 🔴 Legacy |
+| Qualcomm QRD (750 / 765 / 8350) | Project-Mia / AOSPA ROM Maintainer | 🔴 Legacy |
 | Qualcomm QRD (750 / 765 / 4350 / 8350 / 8475) | BSP Compilation | ✅ Active |
 
 ## 🤔 What I'm Doing
 
-- 📱 Maintaining **DerpFest** for Nothing Phone (2a) series (AOSP-based custom ROM)
-- 🌐 L10n Taiwan member — Contributing to Traditional Chinese localization
+- 📱 Maintaining **DerpFest** for Nothing Phone (2a) series (LineageOS-based custom ROM)
+- 🌐 Contributing to Traditional Chinese localization
 
 ## 🎓 Education & Community
 
 - **Chung Yuan Christian University** — Information & Computer Engineering
 - **GDSC CYCU Lead** '23–'24 — Google Developer Student Clubs
 - **L10n Taiwan** — Traditional Chinese localization contributor
-- **Arrow-OS** — Official Maintainer (ZenFone 5Z)
 
 ## 💻 Working Environment
 
@@ -53,8 +54,7 @@ and contributing to the Android open-source ecosystem.
 
 ## 📊 GitHub Stats
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluehomewu&layout=compact&theme=buefy#gh-light-mode-only" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluehomewu&layout=compact&theme=dark#gh-dark-mode-only" />
+<img width="40%" src="https://github-readme-stats-beta-three-75.vercel.app/api/top-langs/?username=bluehomewu&layout=compact&bg_color=FAF7F2&title_color=7957d5&text_color=363636&border_color=e0ddd8#gh-light-mode-only" />
 
 ## 📫 Get in Touch & Support
 
