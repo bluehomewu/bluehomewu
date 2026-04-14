@@ -7,12 +7,8 @@
  - I'm [**Chung Yuan Christian University,Taiwan. (中原大學) X Google Developer Student Clubs (GDSC)**](https://www.instagram.com/gdsc_cycu/) '23 - '24 Lead.
 
 ## 🤔 What I'm doing
- - Learning C / C++ / Java / Kotlin.
- - Maintaining `Arrow-OS` for `ASUS ZenFone 5Z (Z01R)`.
- - Maintaining `Project-Mia` for `ASUS ZenFone 9 (davinci)`.
- - Maintaining `AOSPA` for `QRD8350 (lahaina)`.
- - Maintaining `AOSPA` for `QRD72xx (lito)`.
- - Maintaining `Project-Mia` for `QRD72xx (lito)`.
+ - Developing with C / C++ / Python / Java / Kotlin.
+ - Maintaining `DerpFest` for `Nothing Phone (2a) (Pacman)` & `Nothing Phone (2a) Plus (PacmanPro)`
 
 
 ## 💻 Working environment
@@ -26,34 +22,40 @@
 [![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/jammy/)<br>
 
 ## 📱 Devices in use
-[![Lenovo ThinkBook 14 G6 IRL](https://img.shields.io/badge/Lenovo%20ThinkBook%2014%20G6%20IRL-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://tk.lenovo.com.cn/product/1031931.html)<br>
+[![Lenovo Yoga Slim 7 14Q8X9 2024](https://img.shields.io/badge/Lenovo%20Yoga%20Slim%207%2014Q8X9%202024-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://pcsupport.lenovo.com/tw/zh/products/laptops-and-netbooks/yoga-series/yoga-slim-7-14q8x9/83ed)<br>
 [![ASUS ZenFone 5Z](https://img.shields.io/badge/ASUS%20ZenFone%205Z-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/ZenFone-5Z-ZS620KL/)
 [![ASUS Smartphone for Snapdragon Insiders](https://img.shields.io/badge/ASUS%20Smartphone%20for%20Snapdragon%20Insiders-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/mobile-handhelds/phones/snapdragon-insiders/smartphone-for-snapdragon-insiders/)
 [![ASUS ZenFone 9](https://img.shields.io/badge/ASUS%20ZenFone%209-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/Zenfone-9/)
 [![ASUS ZenFone 10](https://img.shields.io/badge/ASUS%20ZenFone%2010-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/Zenfone-10/)
+[![ROG Phone 7](https://img.shields.io/badge/ASUS%20ROG%20Phone%207-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://rog.asus.com/tw/phones/rog-phone-7/)
 [![ASUS ZenFone 11 Ultra](https://img.shields.io/badge/ASUS%20ZenFone%2011%20Ultra-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/Zenfone-11-ultra/)
 [![ASUS ZenFone 12 Ultra](https://img.shields.io/badge/ASUS%20ZenFone%2012%20Ultra-1428a0?style=flat-square&logo=ASUS&logoColor=fffff)](https://www.asus.com/tw/Mobile/Phones/ZenFone/Zenfone-12-ultra/)<br>
+[![Bluefox GT8 Pro](https://img.shields.io/badge/Bluefox%20GT8%20Pro-1428a0?style=flat-square&logo=Bluefox&logoColor=ffffff)](https://www.mybluefox.com/Products_detail/11.html)
+[![Bluefox NX1](https://img.shields.io/badge/Bluefox%20NX1-1428a0?style=flat-square&logo=Bluefox&logoColor=ffffff)](https://www.mybluefox.com/Products_detail/9.html)<br>
 [![Nokia G60 5G](https://img.shields.io/badge/Nokia%20G60%205G-a2aaad?style=flat-square&logo=Nokia&logoColor=ffffff)](https://www.hmd.com/en_int/nokia-g-60?sku=101Q7505H018)<br>
 [![QRD750](https://img.shields.io/badge/Qualcomm%20QRD750-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)](https://github.com/QRD-Development)
 [![QRD765](https://img.shields.io/badge/Qualcomm%20QRD765-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)](https://github.com/QRD-Development)
 [![QRD4350](https://img.shields.io/badge/Qualcomm%20QRD4350-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)](https://github.com/QRD-Development)
 [![QRD8350](https://img.shields.io/badge/Qualcomm%20QRD8350-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)](https://github.com/QRD-Development)
-[![QRD8475](https://img.shields.io/badge/Qualcomm%20QRD8475-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)](https://github.com/QRD-Development)
-[![QRD8550](https://img.shields.io/badge/Qualcomm%20QRD8550-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)](https://github.com/QRD-Development)<br>
+[![QRD8475](https://img.shields.io/badge/Qualcomm%20QRD8475-415fff?style=flat-square&logo=Qualcomm&logoColor=ffffff)](https://github.com/QRD-Development)<br>
 [![Nothing Phone (1)](https://img.shields.io/badge/Nothing%20Phone%20(1)-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://tw.nothing.tech/products/phone-1)
 [![Nothing Phone (2)](https://img.shields.io/badge/Nothing%20Phone%20(2)-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://tw.nothing.tech/products/phone-2)
 [![Nothing Phone (2a)](https://img.shields.io/badge/Nothing%20Phone%20(2a)-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://tw.nothing.tech/pages/phone-2a)
 [![Nothing Phone (3a)](https://img.shields.io/badge/Nothing%20Phone%20(3a)-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://tw.nothing.tech/products/phone-3a)
 [![Nothing Phone (3a) Pro](https://img.shields.io/badge/Nothing%20Phone%20(3a)%20Pro-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://nothing.tech/products/phone-3a-pro)
 [![Nothing Phone (3)](https://img.shields.io/badge/Nothing%20Phone%20(3)-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://tw.nothing.tech/products/phone-3)
+[![Nothing Phone (4a)](https://img.shields.io/badge/Nothing%20Phone%20(4a)-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://tw.nothing.tech/products/phone-4a)
+[![Nothing Phone (4a) Pro](https://img.shields.io/badge/Nothing%20Phone%20(4a)%20Pro-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://tw.nothing.tech/products/phone-4a-pro)
 [![Nothing ear (2)](https://img.shields.io/badge/Nothing%20ear%20(2)-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://tw.nothing.tech/products/ear-2)
 [![Nothing ear](https://img.shields.io/badge/Nothing%20ear-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://tw.nothing.tech/products/ear)
 [![Nothing ear (a)](https://img.shields.io/badge/Nothing%20ear%20(a)-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://tw.nothing.tech/products/ear-a)
 [![Nothing ear (open)](https://img.shields.io/badge/Nothing%20ear%20(open)-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://tw.nothing.tech/products/ear-open)
-[![Nothing Headphone (1)](https://img.shields.io/badge/Nothing%20Headphone%20(1)-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://tw.nothing.tech/products/headphone-1)<br>
+[![Nothing Headphone (1)](https://img.shields.io/badge/Nothing%20Headphone%20(1)-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://tw.nothing.tech/products/headphone-1)
+[![Nothing Headphone (a)](https://img.shields.io/badge/Nothing%20Headphone%20(a)-000000?style=flat-square&logo=Nothing&logoColor=fffff)](https://tw.nothing.tech/products/headphone-a)<br>
 [![CMF By Nothing Phone 1](https://img.shields.io/badge/CMF%20By%20Nothing%20Phone%201-ff5200?style=flat-square&logo=CMF&logoColor=ffffff)](https://tw.nothing.tech/products/cmf-phone-1)
 [![CMF By Nothing Phone 2 Pro](https://img.shields.io/badge/CMF%20By%20Nothing%20Phone%202%20Pro-ff5200?style=flat-square&logo=CMF&logoColor=ffffff)](https://nothing.tech/products/cmf-phone-2-pro)
-[![CMF Buds Pro 2](https://img.shields.io/badge/CMF%20Buds%20Pro%202-ff5200?style=flat-square&logo=CMF&logoColor=ffffff)](https://cmf.tech/en-tw/pages/buds-pro-2#spec)<br>
+[![CMF Buds Pro 2](https://img.shields.io/badge/CMF%20Buds%20Pro%202-ff5200?style=flat-square&logo=CMF&logoColor=ffffff)](https://cmf.tech/en-tw/pages/buds-pro-2#spec)
+[![CMF Headphone Pro](https://img.shields.io/badge/CMF%20Headphone%20Pro-ff5200?style=flat-square&logo=CMF&logoColor=ffffff)](https://cmf.tech/en-tw/pages/buds-pro-2#spec)<br>
 [![Google Pixel buds A-Series](https://img.shields.io/badge/Google%20Pixel%20buds%20A%20Series-4285F4?style=flat-square&logo=Google&logoColor=ffffff)](https://store.google.com/tw/product/pixel_buds_a_series_specs?utm_source=google&utm_medium=cpc&utm_campaign=japac-TW-zh-dr-bkws-all-all-buy-b-dr-1008675&utm_content=text-ad-none-none-DEV_c-CRE_540318594925-ADGP_Hybrid+%7C+BKWS+-+EXA+~+Pixel+Buds+~+%5BM:1%5D+~+TW+~+zh+~+A+Series-KWID_43700066649024984-kwd-1295844324603-userloc_1012817&utm_term=KW_pixel+buds+a+series-ST_pixel+buds+a+series&gclid=Cj0KCQiAieWOBhCYARIsANcOw0z47epLyWamF_lD1jVWisiHKwRH-zMgXOVqTilcL5s1HKVEoTbpbgcaAhudEALw_wcB&gclsrc=aw.ds&hl=zh-TW)<br>
 [![Raspberry Pi 3 Model B](https://img.shields.io/badge/Raspberry%20Pi%203%20Model%20B-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)
 [![Raspberry Pi 3 Model B+](https://img.shields.io/badge/Raspberry%20Pi%203%20Model%20B%2B-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/)
