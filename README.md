@@ -44,6 +44,7 @@ and contributing to the Android open-source ecosystem.
 
 - **Chung Yuan Christian University** — Information & Computer Engineering
 - **GDSC CYCU Lead** '23–'24 — Google Developer Student Clubs
+- **GDSC CYCU Lead** '23–'24 — Google Developer Student Clubs
 - **L10n Taiwan** — Traditional Chinese localization contributor
 
 ## 💻 Working Environment
@@ -54,7 +55,7 @@ and contributing to the Android open-source ecosystem.
 
 ## 📊 GitHub Stats
 
-<img width="40%" src="https://github-readme-stats-beta-three-75.vercel.app/api/top-langs/?username=bluehomewu&layout=compact&bg_color=FAF7F2&title_color=7957d5&text_color=363636&border_color=e0ddd8#gh-light-mode-only" />
+<img width="40%" src="https://github-readme-stats-beta-three-75.vercel.app/api/top-langs/?username=bluehomewu&layout=compact&bg_color=FAF7F2&title_color=7957d5&text_color=363636&border_color=e0ddd8#gh-light-mode-only" alt="GitHub Top Languages Stats" />
 
 ## 📫 Get in Touch & Support
 
